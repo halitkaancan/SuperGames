@@ -1,12 +1,12 @@
-# tictactoe
+# supergames
 
-A new Flutter project.
+A new Flutter project that basic level
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This is super app for games. That project have only 3 games and it can be developable. This can be new vision for mobile games.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
